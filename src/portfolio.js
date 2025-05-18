@@ -20,7 +20,7 @@ const seo = {
 //Home Page
 const greeting = {
   title: "Stephanie Jones",
-  logo_name: "AshutoshHathidara",
+  logo_name: "codingwithsteph",
   nickname: "coding_with_steph",
   subTitle:
     "Welcome to www.codingwithsteph.com, this site is dedicated to sharing my journey into tech. It has links to communities, resources and blog posts I've written that all make up my journey.",
