@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d44de34550454002308eac3ff42b0af8",
+    "revision": "711c02dc8d282be3056aad5afb991b04",
     "url": "/index.html"
   },
   {
-    "revision": "7c31121528f56d94a966",
+    "revision": "5f8b3b975b8811531027",
     "url": "/static/css/main.9c27953e.chunk.css"
   },
   {
-    "revision": "291f4a0d89f14722ecce",
-    "url": "/static/js/2.0b1cc61a.chunk.js"
+    "revision": "ee5ff0bdb682b3b5f42f",
+    "url": "/static/js/2.b2f5608b.chunk.js"
   },
   {
-    "revision": "7c31121528f56d94a966",
-    "url": "/static/js/main.0c259a41.chunk.js"
+    "revision": "5f8b3b975b8811531027",
+    "url": "/static/js/main.2ff9b0aa.chunk.js"
   },
   {
     "revision": "f4163cc1361175add5e6",
@@ -80,8 +80,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/contactMail.5f915405.png"
   },
   {
-    "revision": "ebf35d7f33ebbd4a4c6cff7e66e21fdb",
-    "url": "/static/media/data_science.ebf35d7f.svg"
+    "revision": "c9add03a8d041607673b47c7817fdf01",
+    "url": "/static/media/data_science.c9add03a.svg"
   },
   {
     "revision": "75a7107b7739a46950f66de29779eb52",
@@ -164,8 +164,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fa-solid-900.8e4a6dcc.eot"
   },
   {
-    "revision": "2936ce95f550e3feef7230ea543a4b60",
-    "url": "/static/media/feelingProud.2936ce95.svg"
+    "revision": "64c5f38481902b5aca41efe68fc5ae88",
+    "url": "/static/media/feelingProud.64c5f384.png"
   },
   {
     "revision": "fce6080726685cabdb4f75a0d8018325",
@@ -210,6 +210,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c597fbded5de799dfb9abc3fc4f1c26f",
     "url": "/static/media/legato_logo.c597fbde.png"
+  },
+  {
+    "revision": "b99e49f72ffb9f6da673f60af6941cea",
+    "url": "/static/media/logo.b99e49f7.png"
   },
   {
     "revision": "83ac24fb968a474c6a63f7a4e9a8f62c",

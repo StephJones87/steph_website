@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.9c27953e.chunk.css",
-    "main.js": "/static/js/main.0c259a41.chunk.js",
-    "main.js.map": "/static/js/main.0c259a41.chunk.js.map",
+    "main.js": "/static/js/main.2ff9b0aa.chunk.js",
+    "main.js.map": "/static/js/main.2ff9b0aa.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2781e2dc.js",
     "runtime-main.js.map": "/static/js/runtime-main.2781e2dc.js.map",
-    "static/js/2.0b1cc61a.chunk.js": "/static/js/2.0b1cc61a.chunk.js",
-    "static/js/2.0b1cc61a.chunk.js.map": "/static/js/2.0b1cc61a.chunk.js.map",
+    "static/js/2.b2f5608b.chunk.js": "/static/js/2.b2f5608b.chunk.js",
+    "static/js/2.b2f5608b.chunk.js.map": "/static/js/2.b2f5608b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0f46a61175d4670c24a4a81870c0c24f.js": "/precache-manifest.0f46a61175d4670c24a4a81870c0c24f.js",
+    "precache-manifest.36731ce6778a457f1d102cfd9100f38c.js": "/precache-manifest.36731ce6778a457f1d102cfd9100f38c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.9c27953e.chunk.css.map": "/static/css/main.9c27953e.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -19,14 +19,14 @@
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.cacbc42b.svg",
     "static/media/codeInLogo.png": "/static/media/codeInLogo.fee92c18.png",
     "static/media/contactMail.png": "/static/media/contactMail.5f915405.png",
-    "static/media/data_science.svg": "/static/media/data_science.ebf35d7f.svg",
+    "static/media/data_science.svg": "/static/media/data_science.c9add03a.svg",
     "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.75a7107b.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.3e23ca14.svg",
     "static/media/dsc_logo.png": "/static/media/dsc_logo.63f707f2.png",
     "static/media/education.svg": "/static/media/education.3bab7a9d.svg",
     "static/media/experience.svg": "/static/media/experience.a00ede3f.svg",
     "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot",
-    "static/media/feelingProud.svg": "/static/media/feelingProud.2936ce95.svg",
+    "static/media/feelingProud.png": "/static/media/feelingProud.64c5f384.png",
     "static/media/fullstack.svg": "/static/media/fullstack.fce60807.svg",
     "static/media/gcp_logo.png": "/static/media/gcp_logo.0ee7e8c9.png",
     "static/media/github_logo.png": "/static/media/github_logo.6eeb2e81.png",
@@ -38,6 +38,7 @@
     "static/media/iu_logo.png": "/static/media/iu_logo.60ed0bd3.png",
     "static/media/jsFramework.svg": "/static/media/jsFramework.5b4a6449.svg",
     "static/media/legato_logo.png": "/static/media/legato_logo.c597fbde.png",
+    "static/media/logo.png": "/static/media/logo.b99e49f7.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.83ac24fb.svg",
     "static/media/muffito_logo.png": "/static/media/muffito_logo.069938a8.png",
     "static/media/nptel_logo.png": "/static/media/nptel_logo.95a12a2b.png",
@@ -53,8 +54,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2781e2dc.js",
-    "static/js/2.0b1cc61a.chunk.js",
+    "static/js/2.b2f5608b.chunk.js",
     "static/css/main.9c27953e.chunk.css",
-    "static/js/main.0c259a41.chunk.js"
+    "static/js/main.2ff9b0aa.chunk.js"
   ]
 }
