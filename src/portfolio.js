@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Ashutosh's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Welcome to www.codingwithsteph.com, this site is dedicated to sharing my journey into tech. It has links to communities, resources and blog posts I've written that all make up my journey",
   og: {
     title: "Ashutosh Hathidara Portfolio",
     type: "website",
@@ -19,11 +19,11 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
-  logo_name: "AshutoshHathidara",
-  nickname: "layman_brother",
+  title: "Stephanie Jones",
+  logo_name: "codingwithsteph",
+  nickname: "coding_with_steph",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Welcome to www.codingwithsteph.com, this site is dedicated to sharing my journey into tech. It has links to communities, resources and blog posts I've written that all make up my journey.",
   resumeLink:
     "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
