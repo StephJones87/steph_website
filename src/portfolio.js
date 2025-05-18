@@ -19,9 +19,9 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
+  title: "Stephanie Jones",
   logo_name: "AshutoshHathidara",
-  nickname: "layman_brother",
+  nickname: "coding_with_steph",
   subTitle:
     "Welcome to www.codingwithsteph.com, this site is dedicated to sharing my journey into tech. It has links to communities, resources and blog posts I've written that all make up my journey.",
   resumeLink:
