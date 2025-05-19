@@ -380,7 +380,7 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
+      title: "Code First Girls",
       subtitle: "B.Tech. in Computer Engineering",
       logo_path: "iiitk_logo.png",
       alt_name: "IIITDM Kurnool",
