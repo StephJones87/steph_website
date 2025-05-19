@@ -32,7 +32,8 @@ class Education extends Component {
                   Communities
                 </h1>
                 <h3 className="heading-sub-text" style={{ color: theme.text }}>
-                  Basic Qualification and Certifcations
+                  The power of community cannot be underestimated when learning
+                  to code and establishing a career in tech.
                 </h3>
                 <CompetitiveSites logos={competitiveSites.competitiveSites} />
               </div>
